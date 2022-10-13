@@ -1,0 +1,9 @@
+composer install
+
+cd mosyle_coffe/public
+
+php -S localhost:8080
+
+email: testando@user.com
+
+password: 123123
