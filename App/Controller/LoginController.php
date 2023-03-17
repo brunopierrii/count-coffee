@@ -17,7 +17,6 @@ class LoginController extends Action
 
   public function index($view)
   {
-
     return $this->render($view);
   }
 
