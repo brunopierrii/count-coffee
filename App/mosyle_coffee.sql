@@ -71,7 +71,7 @@ INSERT INTO
 VALUES
   (
     6,
-    'testando@user.com',
+    'testando@uer.com',
     'Moreira',
     '$argon2id$v=19$m=65536,t=4,p=1$Tmg2WEkzQ3RLVWhINVJtUg$sWSqHqmrZ4d1yMEVoUOfxfeNrsv/+bNjsMzj34ohddE'
   ),
