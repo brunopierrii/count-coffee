@@ -119,7 +119,7 @@ ALTER TABLE
   `coffee`
 MODIFY
   `id` int NOT NULL AUTO_INCREMENT,
-  AUTO_INCREMENT = 8;
+  AUTO_INCREMENT = 1;
 
 --
 -- AUTO_INCREMENT de tabela `user`
@@ -128,7 +128,7 @@ ALTER TABLE
   `user`
 MODIFY
   `id` int NOT NULL AUTO_INCREMENT,
-  AUTO_INCREMENT = 14;
+  AUTO_INCREMENT = 1;
 
 --
 -- Restrições para despejos de tabelas
